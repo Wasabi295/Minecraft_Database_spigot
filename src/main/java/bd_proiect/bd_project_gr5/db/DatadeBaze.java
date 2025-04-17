@@ -18,7 +18,7 @@ public class DatadeBaze {
 
         String url = "jdbc:mysql://localhost:3306/minecraft";
         String user = "root";
-        String password = "Energosos1991-";
+        String password = "your_password";
 
         this.connection = DriverManager.getConnection(url, user, password);
         return this.connection;
