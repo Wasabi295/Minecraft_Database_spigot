@@ -1,0 +1,4 @@
+name: bd_project_gr5
+version: '1.0-SNAPSHOT'
+main: bd_proiect.bd_project_gr5.Bd_project_gr5
+api-version: '1.21'
